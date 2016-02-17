@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1447558777 source:c:\users\luisantonio\desktop\pacman++\pacman\main.cpp
+	<iostream>
+	"Juego.h"
+
+1447548859 source:c:\users\luisantonio\desktop\pacman++\pacman\src\ventana.cpp
+	"Ventana.h"
+
+1447548741 c:\users\luisantonio\desktop\pacman++\pacman\include\ventana.h
+	"Allegro.h"
+
+1447556636 source:c:\users\luisantonio\desktop\pacman++\pacman\src\mapa.cpp
+	"Mapa.h"
+
+1447551388 c:\users\luisantonio\desktop\pacman++\pacman\include\mapa.h
+	"Allegro.h"
+
+1447874558 source:c:\users\luisantonio\desktop\pacman++\pacman\src\juego.cpp
+	"Juego.h"
+
+1446658026 c:\users\luisantonio\desktop\pacman++\pacman\include\juego.h
+	"Mapa.h"
+	"Allegro.h"
+	"Personaje.h"
+
+1447867241 c:\users\luisantonio\desktop\pacman++\pacman\include\allegro.h
+	<iostream>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_native_dialog.h"
+	<stdlib.h>
+	<time.h>
+
+1447552934 c:\users\luisantonio\desktop\pacman++\pacman\include\personaje.h
+	"Allegro.h"
+
+1447866954 source:c:\users\luisantonio\desktop\pacman++\pacman\src\personaje.cpp
+	"Personaje.h"
+
+1447558777 source:d:\back up 2\escritorio\pacman++\pacman\main.cpp
+	<iostream>
+	"Juego.h"
+
+1446658026 d:\back up 2\escritorio\pacman++\pacman\include\juego.h
+	"Mapa.h"
+	"Allegro.h"
+	"Personaje.h"
+
+1447551388 d:\back up 2\escritorio\pacman++\pacman\include\mapa.h
+	"Allegro.h"
+
+1447867241 d:\back up 2\escritorio\pacman++\pacman\include\allegro.h
+	<iostream>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_native_dialog.h"
+	<stdlib.h>
+	<time.h>
+
+1447552934 d:\back up 2\escritorio\pacman++\pacman\include\personaje.h
+	"Allegro.h"
+
+1447874558 source:d:\back up 2\escritorio\pacman++\pacman\src\juego.cpp
+	"Juego.h"
+
+1447556636 source:d:\back up 2\escritorio\pacman++\pacman\src\mapa.cpp
+	"Mapa.h"
+
+1447548859 source:d:\back up 2\escritorio\pacman++\pacman\src\ventana.cpp
+	"Ventana.h"
+
+1447548741 d:\back up 2\escritorio\pacman++\pacman\include\ventana.h
+	"Allegro.h"
+
+1447903508 source:d:\back up 2\escritorio\pacman++\pacman\src\personaje.cpp
+	"Personaje.h"
+
+1452014827 source:c:\users\luis antonio\desktop\pacman\main.cpp
+	<iostream>
+	"Fantasma.h"
+	"Juego.h"
+
+1448401155 c:\users\luis antonio\desktop\pacman\include\juego.h
+	"Mapa.h"
+	"Allegro.h"
+	"Personaje.h"
+	"Fantasma.h"
+
+1450104872 c:\users\luis antonio\desktop\pacman\include\mapa.h
+	"Allegro.h"
+
+1449552746 c:\users\luis antonio\desktop\pacman\include\allegro.h
+	<iostream>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_native_dialog.h"
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<vector>
+	"Cuadro.h"
+
+1452023363 c:\users\luis antonio\desktop\pacman\include\personaje.h
+	"Allegro.h"
+
+1452014901 source:c:\users\luis antonio\desktop\pacman\src\juego.cpp
+	"Juego.h"
+	<fstream>
+
+1448472677 source:c:\users\luis antonio\desktop\pacman\src\mapa.cpp
+	"Mapa.h"
+
+1452023367 source:c:\users\luis antonio\desktop\pacman\src\personaje.cpp
+	"Personaje.h"
+
+1447548859 source:c:\users\luis antonio\desktop\pacman\src\ventana.cpp
+	"Ventana.h"
+
+1447548741 c:\users\luis antonio\desktop\pacman\include\ventana.h
+	"Allegro.h"
+
+1452023174 c:\users\luis antonio\desktop\pacman\include\fantasma.h
+	"Allegro.h"
+	<Personaje.h>
+	<vector>
+
+1451271173 source:c:\users\luis antonio\desktop\pacman\src\fantasma.cpp
+	"Fantasma.h"
+	"modulo.cpp"
+	"Cuadro.h"
+
+1449604792 c:\users\luis antonio\desktop\pacman\src\modulo.cpp
+	<vector>
+	<iostream>
+
+1449604792 source:c:\users\luis antonio\desktop\pacman\src\cuadro.cpp
+	"Cuadro.h"
+
+1449611846 c:\users\luis antonio\desktop\pacman\include\cuadro.h
+	<iostream>
+	<stdlib.h>
+
